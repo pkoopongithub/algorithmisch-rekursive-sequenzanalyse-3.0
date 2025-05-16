@@ -40,10 +40,6 @@ Dieses Projekt bietet eine Webanwendung zur automatischen Analyse von dialogisch
 
 
 
-## 🔧 Projektstruktur
-
-```
-
 ars3/<br>
 ├── ars\_core.py            # Zentrale Logik: Verarbeitung, PCFG-Export, Simulation<br>
 ├── app.py                 # GUI (Streamlit oder tkinter)<br>
