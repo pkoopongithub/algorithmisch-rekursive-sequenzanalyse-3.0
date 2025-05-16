@@ -35,10 +35,6 @@ streamlit run app.py
 3. Die App clustert Äußerungen und generiert Kategorien
 4. Du kannst die resultierende PCFG exportieren oder Dialoge simulieren
 
-## Lizenz
 
-MIT-Lizenz
 
----
 
-Erstellt mit ❤️ zur Analyse gesprochener Sprache.
