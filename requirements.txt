@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+hdbscan
+umap-learn
+pyyaml
+matplotlib
+openai
