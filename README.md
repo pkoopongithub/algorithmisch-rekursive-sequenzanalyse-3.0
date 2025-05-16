@@ -19,14 +19,7 @@ Dieses Projekt bietet eine Webanwendung zur automatischen Analyse von dialogisch
 - `requirements.txt` – Python-Abhängigkeiten
 - `README.md` – Dieses Dokument
 
-## Installation
 
-```bash
-git clone https://github.com/dein-nutzername/Algorithmisch-Rekursive-Sequenzanalyse-3.0.git
-cd Algorithmisch-Rekursive-Sequenzanalyse-3.0
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Nutzung
 
@@ -35,10 +28,4 @@ streamlit run app.py
 3. Die App clustert Äußerungen und generiert Kategorien
 4. Du kannst die resultierende PCFG exportieren oder Dialoge simulieren
 
-## Lizenz
 
-MIT-Lizenz
-
----
-
-Erstellt mit ❤️ zur Analyse gesprochener Sprache.
