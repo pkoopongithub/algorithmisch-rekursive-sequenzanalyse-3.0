@@ -46,20 +46,20 @@ Gerne! Hier ist die **aktualisierte `README.md`** für dein Projekt **„Algorit
 
 ```
 
-ars3/
-├── ars\_core.py            # Zentrale Logik: Verarbeitung, PCFG-Export, Simulation
-├── app.py                 # GUI (Streamlit oder tkinter)
-├── categories.json        # Persistente Speicherung erkannter Kategorien
-├── data/
-│   └── test\_transcript.txt # Beispielhafte Dialogdaten zur Analyse
-├── output/
-│   ├── pcfg.json          # Exportierte PCFG im JSON-Format
-│   ├── pcfg.csv           # Exportierte PCFG im CSV-Format
-│   ├── pcfg.yaml          # Exportierte PCFG im YAML-Format
-│   └── cluster\_plot.png   # Visualisierung der Clusterstruktur
-├── requirements.txt       # Abhängigkeiten
-├── setup.py               # Installationsskript
-└── README.md              # Diese Datei
+ars3/<br>
+├── ars\_core.py            # Zentrale Logik: Verarbeitung, PCFG-Export, Simulation<br>
+├── app.py                 # GUI (Streamlit oder tkinter)<br>
+├── categories.json        # Persistente Speicherung erkannter Kategorien<br>
+├── data/<br>
+│   └── test\_transcript.txt # Beispielhafte Dialogdaten zur Analyse<br>
+├── output/<br>
+│   ├── pcfg.json          # Exportierte PCFG im JSON-Format<br>
+│   ├── pcfg.csv           # Exportierte PCFG im CSV-Format<br>
+│   ├── pcfg.yaml          # Exportierte PCFG im YAML-Format<br>
+│   └── cluster\_plot.png   # Visualisierung der Clusterstruktur<br>
+├── requirements.txt       # Abhängigkeiten<br>
+├── setup.py               # Installationsskript<br>
+└── README.md              # Diese Datei<br>
 
 ```
 
