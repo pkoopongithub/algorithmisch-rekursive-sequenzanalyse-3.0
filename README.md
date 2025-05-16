@@ -19,14 +19,7 @@ Dieses Projekt bietet eine Webanwendung zur automatischen Analyse von dialogisch
 - `requirements.txt` – Python-Abhängigkeiten
 - `README.md` – Dieses Dokument
 
-## Installation
 
-```bash
-git clone https://github.com/dein-nutzername/Algorithmisch-Rekursive-Sequenzanalyse-3.0.git
-cd Algorithmisch-Rekursive-Sequenzanalyse-3.0
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Nutzung
 
