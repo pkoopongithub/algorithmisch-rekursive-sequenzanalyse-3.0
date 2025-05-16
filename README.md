@@ -29,7 +29,15 @@ Dieses Projekt bietet eine Webanwendung zur automatischen Analyse von dialogisch
 4. Du kannst die resultierende PCFG exportieren oder Dialoge simulieren
 
 
-Gerne! Hier ist die **aktualisierte `README.md`** für dein Projekt **„Algorithmisch Rekursive Sequenzanalyse 3.0“**, die jetzt auch die neuen Dateien (`ars_core.py`, `setup.py`, `test_transcript.txt`, etc.) und deren Funktionen dokumentiert.
+# Algorithmisch Rekursive Sequenzanalyse 3.0
+
+**Algorithmisch Rekursive Sequenzanalyse (ARS 3.0)** ist ein modulares System zur Verarbeitung, Analyse und Simulation von dialogischen Transkripten. Es ermöglicht die automatische Clusterung semantisch ähnlicher Aussagen, den Aufbau probabilistischer kontextfreier Grammatiken (PCFG), sowie die Generierung synthetischer Dialoge auf Basis dieser Strukturen.
+
+---
+
+## 🔧 Projektstruktur
+
+
 
 
 ## 🔧 Projektstruktur
