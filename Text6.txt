@@ -1,0 +1,16 @@
+Text 6
+Datum: 28. Juni 1994, Ort: Käseverkaufsstand, Aachen, Marktplatz
+
+(Marktatmosphäre, Begrüßungen)
+
+Kunde 1: Guten Morgen!
+
+Verkäufer: Guten Morgen!
+
+Kunde 1: Ich hätte gerne fünfhundert Gramm holländischen Gouda.
+
+Verkäufer: Am Stück?
+
+Kunde 1: Ja, am Stück, bitte.
+
+Ende Text 6
