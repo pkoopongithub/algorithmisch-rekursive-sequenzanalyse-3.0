@@ -112,16 +112,6 @@ ars-gui
 
 ---
 
-## ⚙️ Setup for Installation
-
-Optionally, the project can be installed as a Python package:
-
-```bash
-pip install .
-```
-
----
-
 ## 📈 Export Formats
 
 * **JSON** – Structured, machine-readable format
@@ -251,15 +241,7 @@ Oder über den Konsolenbefehl:
 ars-gui
 ```
 
----
 
-## ⚙️ Setup für Installation
-
-Optional kann das Projekt als Paket installiert werden:
-
-```bash
-pip install .
-```
 
 ---
 
