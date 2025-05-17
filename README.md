@@ -1,4 +1,5 @@
 # Algorithmic Recursive Sequence Analysis 3.0
+![ARS 3.0 GUI](ars3.png)
 
 This project provides a web-based application for the automatic analysis of dialog transcripts using Sentence-BERT, HDBSCAN clustering, and probabilistic context-free grammars (PCFG).
 
@@ -158,6 +159,7 @@ Dieses Projekt bietet eine Webanwendung zur automatischen Analyse von dialogisch
 
 
 # Algorithmisch Rekursive Sequenzanalyse 3.0
+![ARS 3.0 GUI](ars3.png)
 
 **Algorithmisch Rekursive Sequenzanalyse (ARS 3.0)** ist ein modulares System zur Verarbeitung, Analyse und Simulation von dialogischen Transkripten. Es ermöglicht die automatische Clusterung semantisch ähnlicher Aussagen, den Aufbau probabilistischer kontextfreier Grammatiken (PCFG), sowie die Generierung synthetischer Dialoge auf Basis dieser Strukturen.
 
